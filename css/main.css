@@ -1,10 +1,10 @@
 body {
-    margin:0;
-    font:normal 75% Arial, Helvetica, sans-serif;
+    margin: 0;
+    font: normal 75% Arial, Helvetica, sans-serif;
 }
 
 #particles-js {
-    position:absolute;
+    position: absolute;
     width: 100%;
     height: 100%;
     background-color: #0c0f14;
